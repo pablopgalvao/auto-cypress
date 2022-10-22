@@ -1,0 +1,14 @@
+{
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/report/mochawesome-report",
+    "overwrite": true,
+    "html": true,
+    "json": false,
+    "timestamp": "mmddyyyy_HHMMss",
+    "charts": true,
+    "code": true,
+    "reportTitle": "Projeto COPA Automação"
+  },
+  "projectId": "6b784x"
+}

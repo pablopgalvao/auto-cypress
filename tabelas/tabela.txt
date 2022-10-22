@@ -1,0 +1,402 @@
+[
+  {
+    "Title": "FWC22 - RESULT - EN-NG",
+    "Content Type": "Basic page",
+    "Author": "eduardo.alvare…",
+    "Status": "Published",
+    "Updated": "09/18/2022 - 23:12",
+    "Translation language": "English - Nigeria"
+  },
+  {
+    "Title": "Congrats ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:21",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - SCAN - ES-PA",
+    "Content Type": "Landing Page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:20",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "NEW REGISTER ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:20",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "Congrats es-ar",
+    "Content Type": "Basic page",
+    "Author": "eduardo.alvare…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:19",
+    "Translation language": "Spanish - Argentina"
+  },
+  {
+    "Title": "FWC22 - RESET - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:19",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - LOGIN - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:17",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "CONFIRM SIGN UP ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:16",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "New SSO Edit Phone [es-pa]",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:16",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - PROFILE - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:16",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - NEW FAQ - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:14",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "New SSO Edit Phone [es-cl]",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:12",
+    "Translation language": "Spanish - Chile (es-cl)"
+  },
+  {
+    "Title": "FWC22 - PROFILE - ES-CL",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:11",
+    "Translation language": "Spanish - Chile (es-cl)"
+  },
+  {
+    "Title": "CONFIRM SIGN UP ES-CL",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:10",
+    "Translation language": "Spanish - Chile (es-cl)"
+  },
+  {
+    "Title": "FWC22 - RESET - ES-CL",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:09",
+    "Translation language": "Spanish - Chile (es-cl)"
+  },
+  {
+    "Title": "Congrats ES-CL",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:08",
+    "Translation language": "Spanish - Chile (es-cl)"
+  },
+  {
+    "Title": "FWC22 - LOGIN - ES-CL",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:07",
+    "Translation language": "Spanish - Chile (es-cl)"
+  },
+  {
+    "Title": "NEW REGISTER ES-CL",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 13:06",
+    "Translation language": "Spanish - Chile (es-cl)"
+  },
+  {
+    "Title": "FWC22 - CONTATO - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 12:17",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - CUPOM - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 12:07",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - RESULT - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 12:02",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "HOME FWC22 NEW ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 11:43",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - CONTATO - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 11:02",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - PRIZE - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 11:00",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - SCAN - PT-BR",
+    "Content Type": "Landing Page",
+    "Author": "eduardo.alvare…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 10:47",
+    "Translation language": "Portuguese, Brazil"
+  },
+  {
+    "Title": "Congrats EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 10:27",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - CUPOM - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 10:23",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - PROFILE - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 10:20",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - RESULT - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 10:17",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "NEW REGISTER EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 10:09",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - SCAN - EN-ZM",
+    "Content Type": "Landing Page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 10:04",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "404",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 08:59",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - NEW FAQ - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 08:57",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - COMO FUNCIONA - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 08:52",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - TERMOS DE USO - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 08:31",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - POLITICA - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 08:31",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - LOGIN - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 08:12",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "CONFIRM SIGN UP EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 08:11",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "FWC22 - RESET - EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 08:06",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "Participate EN-ZM",
+    "Content Type": "Landing Page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:41",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "HOME FWC22 NEW EN-ZM",
+    "Content Type": "Basic page",
+    "Author": "henrique.griss…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:28",
+    "Translation language": "Inglês - Zâmbia"
+  },
+  {
+    "Title": "404",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:26",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - TERMOS DE USO - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:25",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - POLITICA - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:24",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - COMO FUNCIONA - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:18",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "FWC22 - PREMIO - ES-PA",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:18",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "Participate ES-PA",
+    "Content Type": "Landing Page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:18",
+    "Translation language": "Spanish - Panama"
+  },
+  {
+    "Title": "HOME FWC22 NEW ES-AR",
+    "Content Type": "Basic page",
+    "Author": "rodrigo.antoni…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 07:17",
+    "Translation language": "Spanish - Argentina"
+  },
+  {
+    "Title": "HOME FWC22 NEW ES-CL",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 06:14",
+    "Translation language": "Spanish - Chile (es-cl)"
+  },
+  {
+    "Title": "FWC22 - COMO FUNCIONA - ES-CL",
+    "Content Type": "Basic page",
+    "Author": "rafael.amariz@…",
+    "Status": "Published",
+    "Updated": "09/06/2022 - 06:11",
+    "Translation language": "Spanish - Chile (es-cl)"
+  }
+]
