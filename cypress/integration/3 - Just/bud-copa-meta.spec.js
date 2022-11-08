@@ -1,12 +1,12 @@
 const { get } = require("lodash");
 
 describe('Pegar Tabela HTML e Gerar Arquivo', () => {
-    beforeEach(() => {
+    before(() => {
         cy.viewport(1920, 1080)
-        cy.visit('https://budweiser.com/user')
-        cy.wait(500)
+        cy.wait(500) // Temmpo de espera para acesssar o age gate 
+        cy.visit('http://budweiser.com/pt-br/fwc22')
+        
         //cy.once('uncaught:exception', () => false);
-        cy.get('#onetrust-accept-btn-handler')
     })    
 
     Cypress.on('uncaught:exception', (err, runnable) => {
@@ -19,16 +19,16 @@ describe('Pegar Tabela HTML e Gerar Arquivo', () => {
         // errors, so we let them fail the test
       })
 
+/*
       it.only('Login e Age Gate', () => {
         //cy.get('#onetrust-accept-btn-handler').click() // Aceitar Cokkies
         cy.login('pablo.galvao@justdigital.com.br', 'Just123#')
         cy.ageGate()
     });
-
-    it('Criando o JSON', () => {
-        cy.getTable()
-        cy.get('.toolbar-icon-system-admin-content').click();
-        //cy.get('.pager__item--next > .pager__link').click()
+*/
+    it("works!", () => {
+        //cy.visit("/");
+        cy.get('meta[name="description"]')
+        .should("have.attr", "content", "É só abrir a sua Bud e torcer pra ganhar prêmios na hora.");
     });
-        
 })
