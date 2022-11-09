@@ -1,3 +1,7 @@
+# Cache VsCode
+####################
+.vscode/
+
 # Testes JUST com informações Sensíveis
 ####################
 buscar-luck.spec.js
