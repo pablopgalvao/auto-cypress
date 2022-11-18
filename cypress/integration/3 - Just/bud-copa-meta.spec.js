@@ -26,7 +26,7 @@ describe('Pegar Tabela HTML e Gerar Arquivo', () => {
         cy.ageGate()
     });
 */
-    it("works!", () => {
+    it.only("works!", () => {
         //cy.visit("/");
         cy.get('meta[name="description"]')
         .should("have.attr", "content", "É só abrir a sua Bud e torcer pra ganhar prêmios na hora.");

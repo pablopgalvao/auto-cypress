@@ -4,7 +4,7 @@ describe('Pegar Titles e Meta tags das Páginas', () => {
     beforeEach(() => {
         cy.viewport(1920, 1080)
         cy.visit('https://budweiser.com/pt-br/fwc22')
-        cy.wait("xhr41")
+        //cy.wait("xhr41")
         //cy.once('uncaught:exception', () => false);
     })    
 /*
@@ -18,16 +18,10 @@ describe('Pegar Titles e Meta tags das Páginas', () => {
         // errors, so we let them fail the test
       })
 */
-    it('Login e Age Gate', () => {
-        //cy.get('#onetrust-accept-btn-handler').click() // Aceitar Cokkies
-        //cy.login('admin2', '#Telem@tica1017')
-        cy.get('#onetrust-accept-btn-handler')
+    it.only('Login e Age Gate', () => {
+        cy.get('#onetrust-accept-btn-handler').click() // Aceitar Cokkies
         cy.ageGate()
     });
-    it('Login e Age Gate', () => {
-        cy.get('meta[name="description"]')
-        .should("have.attr", "content", "Here goes the description...");
-        }); 
 /*
     it('Criando o JSON', () => {
         cy.getTable()
